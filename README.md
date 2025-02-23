@@ -1,1 +1,1 @@
-![](/demos/demo.gif)
+<img src="/demos/demo.gif" width="100%">
